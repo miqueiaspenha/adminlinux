@@ -14,6 +14,10 @@ Entre como usuário postgres comando:
 
 # su postgres
 
+ou 
+
+sudo su - postgres
+
 Conecte no banco comando:
 
 $ psql
